@@ -1,0 +1,14 @@
+
+[ToolTip]
+	"Show ModName" = false
+	"Show DetailedInformation" = true
+	"Show Tag" = false
+	"Show DetailedInformation Key" = "key.sneak"
+	"Show Tag Key" = "key.sprint"
+
+[Data]
+	"Delete Unnecessary Texture Cash at startup" = true
+
+[GUI]
+	"Beacon Overlay" = true
+

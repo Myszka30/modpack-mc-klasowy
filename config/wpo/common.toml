@@ -1,0 +1,12 @@
+
+[General]
+	#UwU
+	#Range: 0 ~ 256
+	setMaxEqualizeDistance = 16
+	#-_-
+	#Range: 0 ~ 256
+	setMaxSlidingDistance = 5
+	#^u^
+	#Range: 0 ~ 8
+	setMaxBucketDistance = 8
+
