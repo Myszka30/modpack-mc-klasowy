@@ -4,10 +4,13 @@
 			"{data:{id:\"minecraft:polished_andesite\",Count:1b,type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{id:\"minecraft:enchanted_book\",Count:1b,tag:{StoredEnchantments:[{lvl:2s,id:\"minecraft:depth_strider\"}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{id:\"minecraft:enchanted_book\",Count:1b,tag:{StoredEnchantments:[{lvl:3s,id:\"minecraft:protection\"}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{id:\"minecraft:stripped_spruce_log\",Count:1b,type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{id:\"minecraft:stripped_spruce_log\",Count:1b,type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{id:\"minecraft:light_blue_wool\",Count:1b,type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{id:\"toughasnails:purified_water_canteen\",Count:1b,tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{id:\"minecraft:dark_oak_log\",Count:1b,type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
