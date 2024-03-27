@@ -1,4 +1,4 @@
-# *Repozytorium modów na serwer klasowy 1m*
+# **Repozytorium modów na serwer klasowy 1m**
 
 To repozytorium służy do każdorazowego ściągania modów po aktualizacji modpacka aby przyśpieszyć proces aktualizacji
 
